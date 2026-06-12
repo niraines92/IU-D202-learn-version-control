@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+	"commonName": "Tibetan Mastiff",
+	"scientificName": "Canis lupus familiaris",
+	"habitat": "Tibetan Plateau and the Himalayan Mountains"
+	"description": "A massive, muscular, and ancient guardian breed from the Himalayas." 
   }
 ]
