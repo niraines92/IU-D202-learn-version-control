@@ -34,5 +34,11 @@
 	"scientificName": "Canis lupus familiaris",
 	"habitat": "Tibetan Plateau and the Himalayan Mountains"
 	"description": "A massive, muscular, and ancient guardian breed from the Himalayas." 
+  },
+  {
+	"commonName": "Indochinese rhesus macaque",
+	"scientificName": "Macaca mulatta",
+	"habitat": "Tropical forests and dry dciduous woodlands to high-altitude Himalayan mountains, grasslands, and human-dominated urban landscapes",
+	"description": "Medium-sized, highly adaptable Old World monkey native to Asia."
   }
 ]
